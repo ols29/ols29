@@ -17,7 +17,7 @@
 
 ---
 
-## 🖥 Sobre mim
+## 🖥 About me
 
 ```bash
 > whoami
@@ -30,7 +30,7 @@ Oliver 'ols29'
 
 ---
 
-## ⚙️ Ferramentas & Tecnologias
+## ⚙️ Tools & Technologies
 
 <p align="center">
   <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
@@ -50,7 +50,7 @@ Oliver 'ols29'
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ols29&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
