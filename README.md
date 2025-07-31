@@ -63,14 +63,6 @@ Oliver 'ols29'
 ---
 
 
-## 📫 Contato & Bug Bounty
-
-- 📧 oliverd39@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/olivercasto)  
-- 🌐 [Portfolio](https://ols29.github.io/portfolio-v2)  
-
----
-
 <p align="center" style="color:#00FF41; font-weight: bold; font-style: italic;">
   <small>“The quieter you become, the more you are able to hear.” — Ram Dass</small>
 </p>
