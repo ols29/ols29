@@ -34,7 +34,6 @@
 ---
 
 ### 📊 System Analytics
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ols29&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&include_all_commits=true" height="170px" alt="Geral Stats" />
   
@@ -42,7 +41,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ols29&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117&color=00FF41" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ols29&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117&color=00FF41" width="100%" alt="Oliver Santos's Contribution Graph" />
 </p>
 
 ---
@@ -59,4 +58,4 @@
 
 <div align="right">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/master/Apps.gif" width="150" alt="Cybersecurity" />
-</div>>
+</div>
