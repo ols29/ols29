@@ -1,4 +1,4 @@
-# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=OLIVER-SANTOS+|+Software+Engineer;Security+Researcher;DevSecOps+Enthusiast" alt="Typing SVG" /> </p>
+# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Oliver+|+Software+Engineer;Security+Researcher;DevSecOps+Enthusiast" alt="Typing SVG" /> </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/assets/green_matrix.gif" width="100%" height="100px">
