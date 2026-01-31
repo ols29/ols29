@@ -4,10 +4,9 @@
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/assets/green_matrix.gif" width="100%" height="100px">
 </p>
 
-### 🛡️ System Terminal: ols29@PUCPR
-**Engenharia de Software @ PUCPR** | **Dev & Security Pleno**
+### 🛡️ System Terminal: ols29
+**Engenharia de Software @ PUCPR** | **Dev & Security**
 
-Sou um desenvolvedor que não acredita em "segurança como opcional". Minha formação acadêmica na **PUCPR** aliada à prática em **Cibersegurança** me permite construir arquiteturas resilientes e ofensivamente testadas.
 
 - 🎓 Graduando em Engenharia de Software pela **PUCPR**.
 - 🛠️ Especialista em transformar vulnerabilidades complexas em patches de segurança.
@@ -44,10 +43,14 @@ Sou um desenvolvedor que não acredita em "segurança como opcional". Minha form
 
 ### 📡 Encrypted Connection
 <p align="left">
-<a href="https://www.linkedin.com/in/olivercasto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="oliverpokas7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/olivercasto" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:oliverpokas7@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 </p>
 
 <div align="right">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/master/Apps.gif" width="150" alt="Cybersecurity">
-</div>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/master/Apps.gif" width="150" alt="Cybersecurity" />
+</div>>
