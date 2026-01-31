@@ -4,19 +4,21 @@
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/assets/green_matrix.gif" width="100%" height="100px">
 </p>
 
-### 🛡️ Terminal: ols29@pucpr:~$ whoami
-**Engenharia de Software na PUCPR** | **Fullstack & Cybersecurity**
+### 🛡️ System Terminal: ols29@PUCPR
+**Engenharia de Software @ PUCPR** | **Dev & Security Pleno**
+
+Sou um desenvolvedor que não acredita em "segurança como opcional". Minha formação acadêmica na **PUCPR** aliada à prática em **Cibersegurança** me permite construir arquiteturas resilientes e ofensivamente testadas.
 
 - 🎓 Graduando em Engenharia de Software pela **PUCPR**.
-- 🛠️ Especialista em transformar vulnerabilidades complexas em correções resilientes.
-- 🚀 Foco em **DevSecOps**, integrando segurança diretamente no ciclo de vida do software.
-- 💻 "Se não pode ser feito via terminal, não vale a pena."
+- 🛠️ Especialista em transformar vulnerabilidades complexas em patches de segurança.
+- 🚀 Atuação em **DevSecOps**, garantindo integridade desde a primeira linha de código.
+- 💻 Mindset: "Se você não audita seu próprio código, alguém mal-intencionado fará isso por você."
 
 ---
 
 ### 🚀 Stack & Toolbox
 
-**Development & Engineering**
+**Development & Infrastructure**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,js,nodejs,go,docker,aws,postgres,mongodb,git,github,linux" />
 </p>
@@ -27,14 +29,15 @@
   <img src="https://img.shields.io/badge/Burp_Suite-FF7F2A?style=for-the-badge&logo=burp-suite&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-E32C2C?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-4D4D4D?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
 ---
 
 ### 📊 System Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ols29&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF41&icon_color=00FF41" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ols29&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF41" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ols29&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ols29&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF41&text_color=c9d1d9" height="170px" />
 </div>
 
 ---
@@ -42,9 +45,9 @@
 ### 📡 Encrypted Connection
 <p align="left">
 <a href="https://www.linkedin.com/in/olivercasto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:oliverpokas7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="oliverpokas7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <div align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJieXp6Z3Z4bmR6NXBycmR6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/69mUSKBujnpgmxcAm3/giphy.gif" width="150" alt="Cybersecurity">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/master/Apps.gif" width="150" alt="Cybersecurity">
 </div>
