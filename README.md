@@ -5,7 +5,7 @@
 </p>
 
 ### 🛡️ System Terminal: ols29
-**Engenharia de Software @ PUCPR** | **Dev & Security**
+**Engenharia de Software @ PUCPR** | **Dev & Security**| **Anti-Fraud**
 
 - 🎓 Graduando em Engenharia de Software pela **PUCPR**.
 - 🛠️ Especialista em transformar vulnerabilidades complexas em patches de segurança.
