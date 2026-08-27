@@ -32,6 +32,23 @@
 
 ---
 
+### 🌱 Featured Open Source
+
+#### [zero-dep-utils](https://github.com/ols29/zero-dep-utils)
+
+Small, zero-dependency ESM utilities for JavaScript, including Brazilian CPF
+and CNPJ validation. It ships 16 focused helpers, 28 tests, and CI across Node.js
+18, 20, 22, and 24.
+
+[![Repository](https://img.shields.io/badge/GitHub-zero--dep--utils-181717?style=for-the-badge&logo=github)](https://github.com/ols29/zero-dep-utils)
+[![Release](https://img.shields.io/github/v/release/ols29/zero-dep-utils?style=for-the-badge)](https://github.com/ols29/zero-dep-utils/releases/latest)
+[![Stars](https://img.shields.io/github/stars/ols29/zero-dep-utils?style=for-the-badge)](https://github.com/ols29/zero-dep-utils/stargazers)
+
+I also build company projects through
+[Oca-Softwares](https://github.com/Oca-Softwares).
+
+---
+
 ### 📊 System Analytics
 
 <p align="center">
