@@ -8,9 +8,6 @@
 **Engenharia de Software @ PUCPR** | **Dev & Security**| **Anti-Fraud**
 
 - 🎓 Graduando em Engenharia de Software pela **PUCPR**.
-- 🛠️ Especialista em transformar vulnerabilidades complexas em patches de segurança.
-- 🚀 Atuação em **DevSecOps**, garantindo integridade desde a primeira linha de código.
-- 💻 Mindset: "Se você não audita seu próprio código, alguém mal-intencionado fará isso por você."
 
 ---
 
