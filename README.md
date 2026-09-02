@@ -32,14 +32,6 @@
 
 ---
 
-### 📊 System Analytics
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ols29&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117&color=00FF41" width="100%" alt="Contribution Graph" />
-</p>
-
----
-
 ### 📡 Encrypted Connection
 <p align="left">
 <a href="https://www.linkedin.com/in/olivercasto" target="_blank">
