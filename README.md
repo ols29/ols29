@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/assets/green_matrix.gif" width="100%" height="100px">
 </p>
 
-### 🛡️ System Terminal: ols29
+### 🛡️
 **Engenharia de Software @ PUCPR** | **Dev & Security**| **Anti-Fraud**
 
 - 🎓 Graduando em Engenharia de Software pela **PUCPR**.
